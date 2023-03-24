@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&display=swap%27');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap%27');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0D192C;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+.main{
+    margin: auto;
+    width: 350px;
+    height: 600px;
+    background-color: #15263F;;
+    border-radius: 15px;
+    padding: 24px;
+}
+.txt{
+    height: 160px;
+}
+.img img{
+    width: 302px;
+    height: 302px;
+    border-radius: 8px;
+}
+.txt h1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+.txt p{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    color: #8BACD9;
+    margin-top: 16px;
+}
+.ul{
+    float: left;
+    margin-top: 24px;
+}
+.ul li{
+    list-style: none;
+    float: left;
+}
+.sd img{
+    margin-right: 6px;
+    float: left;
+}
+.sd{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #00FFF8;
+    margin-right: 112px;
+}
+.ss img{
+    float: left;
+}
+.ss{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+}
+.last{
+    border-top: 1px solid  #2E405A;;
+
+}
+.last img{
+    width: 32px;
+    height: 33px;
+    float: left;
+    margin-top: 16px;
+    border-radius: 35px;
+    border:1px solid white;
+}
+.last p{
+    float: left;
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #8BACD9;
+margin-top: 22px;
+margin-left: 16px;
+}
+.last h5{
+    float: left;
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+margin-top: 22px;
+margin-left: 5px;
+}
